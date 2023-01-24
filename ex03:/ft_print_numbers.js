@@ -1,7 +1,11 @@
 
 
 function printNumbers() { {
-      console.log(String.fromCharCode(48, 49, 50, 51, 52, 53, 54, 55, 56, 57,));
+  
+
+      console.log("zéro un deux trois quatre cinq six sept huit neuf");
     }
   }
   printNumbers();
+
+
