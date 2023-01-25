@@ -1,6 +1,6 @@
 
 function printAlphabet () { {
-        console.log("abcdefghijklmnopqrstuvwxy");
+        console.log("abcdefghijklmnopqrstuvwxyz");
     }
 }
 printAlphabet();
